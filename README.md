@@ -1,1 +1,1 @@
-# Two-Dimensinals-Arrays-in-java
+# Two-Dimensionals-Arrays-in-java
